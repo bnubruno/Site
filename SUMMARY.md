@@ -8,6 +8,7 @@
 
 ## Spring Framework
 
+* [Integração Contínua](ci-cd/integracao-continua.md)
 * [Integração com CircleCI](ci-cd/integracao-com-circleci.md)
 * [Flyway: Migrando banco de dados](ci-cd/flyway-migrando-banco-de-dados.md)
 * [Liquibase: Migrando banco de dados](ci-cd/liquibase-migrando-banco-de-dados.md)
